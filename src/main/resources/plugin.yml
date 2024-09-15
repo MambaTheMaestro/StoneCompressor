@@ -1,0 +1,4 @@
+name: StoneCompressor
+version: '1.0-SNAPSHOT'
+main: com.odysseybot.stoneCompressor.StoneCompressor
+api-version: '1.21'
